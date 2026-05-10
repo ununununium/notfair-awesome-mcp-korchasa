@@ -375,6 +375,7 @@ Table of Contents:
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) (2882 ) - A curated list of Model Context Protocol (MCP) servers showcasing reference implementations and official production-ready integrations for diverse AI-powered applications.
 - [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) (1041 ) - A curated, community-driven list of Model Context Protocol (MCP) servers, tools, frameworks, clients, and utilities enabling secure AI model interactions with local and remote resources through standardized server implementations.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) (747 TypeScript) - Fetch MCP Server is an MCP server that fetches and transforms web content into HTML, JSON, plain text, and Markdown formats on demand.
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - **NotFair** Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Free tier available.
 
 ## MCP Clients
 
